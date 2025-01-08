@@ -1,6 +1,6 @@
 # Overview
 This is part of [The Odin Project](https://www.theodinproject.com/dashboard) foundations course projects.
-This project implements a given web page using HTML and CSS flexobx. The goal was to replicate the given webpage design shown below as close as possible.
+This project implements a given web page using HTML and CSS flexbox. The goal was to replicate the given webpage design shown below as close as possible.
 
 # Technologies Used
 - HTML
